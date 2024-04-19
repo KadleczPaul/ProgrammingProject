@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1713172398 source:c:\users\rmspa\onedrive\desktop\proiect de programare\proiect de programare\main.c
+	"proiect.h"
+
+1713172510 source:c:\users\rmspa\onedrive\desktop\proiect de programare\proiect de programare\proiect.c
+	"proiect.h"
+
+1713123428 c:\users\rmspa\onedrive\desktop\proiect de programare\proiect de programare\proiect.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1713178634 source:c:\users\rmspa\onedrive\desktop\proiectdeprogramare\main.c
+	"proiect.h"
+
+1713123428 c:\users\rmspa\onedrive\desktop\proiectdeprogramare\proiect.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1713185258 source:c:\users\rmspa\onedrive\desktop\proiectdeprogramare\proiect.c
+	"proiect.h"
+
+1713469654 source:c:\users\paul\desktop\proiect remus\main.c
+	"proiect.h"
+
+1713468686 c:\users\paul\desktop\proiect remus\proiect.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1713469719 source:c:\users\paul\desktop\proiect remus\proiect.c
+	"proiect.h"
+
+1713469654 source:c:\users\paul\desktop\project pp\main.c
+	"proiect.h"
+
+1713468686 c:\users\paul\desktop\project pp\proiect.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1713469719 source:c:\users\paul\desktop\project pp\proiect.c
+	"proiect.h"
+
